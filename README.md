@@ -1,10 +1,10 @@
-📊 Zara Sales & Analytics Dashboard — Practice BI Project
+📊 Zara Sales & Analytics Dashboard -Practice BI Project
 
 This is a practice end-to-end BI project built using Power Query, MySQL and Power BI.
 The goal was to create a full analytics pipeline — from data ingestion and SQL modeling to interactive dashboards.
 
 ⚠️ No real Zara / Inditex data was used.
-All data was artificially generated for learning purposes.
+
 
 🔍 Project Overview
 
@@ -24,7 +24,7 @@ Light and Dark UI themes
 
 🗂️ Dataset
 
-Artificial dataset generated for training purposes:
+Power Query:
 
 transactions
 
