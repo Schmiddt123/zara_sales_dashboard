@@ -88,7 +88,7 @@ ZaraDashboard.pbix
 GitHub Repository:
 https://github.com/Schmiddt123/zara_sales_dashboard
 
-💬 Feedback
+💬 Feedback :
 
 If you have any suggestions — feel free to share!
 I'm actively learning Power BI, SQL and analytics, so any feedback is welcome.
